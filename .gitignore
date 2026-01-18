@@ -1,18 +1,5 @@
-﻿# Python
-venv/
+﻿venv/
 __pycache__/
 *.pyc
-
-# Environment variables
 .env
-
-# ML / training artifacts
 runs/
-*.pt
-
-# Large binaries
-*.dll
-*.pyd
-
-# OS
-.DS_Store
