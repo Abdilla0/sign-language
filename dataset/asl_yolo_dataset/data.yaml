@@ -1,0 +1,11 @@
+# ASL Sign Language Dataset
+# Converted from Label Studio
+
+path: C:\myfile\yoloproject\dataset\asl_yolo_dataset
+train: train/images
+val: val/images
+test: test/images
+
+# Classes
+nc: 9
+names: ['good', 'help', 'love', 'no', 'please', 'sorry', 'stop', 'thank you', 'yes']
